@@ -14,9 +14,9 @@ Each use case represents a specific interaction requirement from the User/Actor 
 
 <br/>
 
-|  Related Efforts | Effort Documentation | Related User Stories 
-| :-------------  | :------------- | :-----|
-| [E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md) | [Use Cases Diagram](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/Documentation/Use-Cases-Overview.md) | (enabling functionality)
+|  Related Efforts  | Related User Stories 
+| :-------------  | :-----|
+| [E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md) | (enabling functionality)
 
 <br/><br/>
  
