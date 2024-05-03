@@ -8,7 +8,6 @@ This folder contains all the files for <b> E1: Data Repository Finder </b>:
 
 * [3_Code](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/Documentation/3_Code): Effort code files.
 
-* [Use-Cases-Overview.md](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/Documentation/Use-Cases-Overview.md): Formal documentation overview file, showing the effort use cases diagram describing effort scope, and showing links to related use cases and user stories.
 
 * <b> README.md </b>: This file, describing the contents of "E1_Data-Repository-Finder/Documentation".
 
