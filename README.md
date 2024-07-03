@@ -20,7 +20,8 @@
 - [Effort Documentation](#effort-documentation): details the scope of the effort, including: 
     - [Use Cases Diagram](#use-cases-diagram) - use cases for the E1-Data Repository Finder effort and their relationships
     - [Use Cases and Origin User Stories](#use-cases-and-origin-user-stories) - overview of each use case, related actors, and their goals
-    - [Documentation Files](#documentation-files) - files that can be downloaded for this project.
+    - [Source](#source) - Open-source codebase for the DRF web-based tool
+    - [Documentation Files](#documentation-files) - documentation files that can be downloaded for this project
 
 <br/><br/>
 
@@ -89,12 +90,13 @@ Viewing provenance extends editing and publishing a repository, and includes sel
 
 <br/>
 
+## [Source](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/Source) 
+Open-source codebase for the DRF web-based tool with license information.
+
 ## [Documentation Files](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/Documentation)
 
 * [1_Use-Cases](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/Documentation/1_Use-Cases): Formalized documentation describing interaction requirements and Effort scope.
 
 * **2_Supplemental:** Other documentation describing Effort design and build decisions (coming soon) 
-
-* **3_Code:** Effort code files (coming soon)
 
 
