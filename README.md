@@ -1,21 +1,22 @@
 #### Library Main Navigation: &nbsp; &nbsp;  [Ecosystem Use Case Library Home](https://github.com/NIH-NICHD-Ecosystem) &nbsp; | &nbsp;[User Stories](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/README.md)  &nbsp; | &nbsp; [Use Cases](https://github.com/NIH-NICHD-Ecosystem/UseCases/blob/main/README.md) &nbsp; | &nbsp; [Efforts](https://github.com/NIH-NICHD-Ecosystem/Efforts/blob/main/README.md) &nbsp; | &nbsp; [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md)
 
-</br>
+</br><br/>
 
 [![DOI](https://zenodo.org/badge/795587690.svg)](https://zenodo.org/badge/latestdoi/795587690)
 
 # E1: Data Repository Finder
 
-<br/><br/>
+<br/> 
+
 ![Logo for the data repository finder effort website and an image of the website landing page.](./assets/E1-DRF-Overview.PNG) 
-<br/>
+
 
 ### The Data Repository Finder is an open-access, web-based tool that helps NICHD researchers find data repositories where they can share data as they develop and implement their NIH Data Management and Sharing Plans. Repositories are added on an ongoing basis.
 
 ### > Live in Beta. Visit the website at https://data-repository-finder.ll.mit.edu*
 *\*External link, NIH is not responsible for content of external sites*
 
-<br/><br/>
+<br/>
 
 # Table of Contents
 - [Effort Overview](#effort-overview): high-level details and contact information
