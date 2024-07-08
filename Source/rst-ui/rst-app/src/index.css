@@ -1,0 +1,358 @@
+ /*Copyright 2024, MASSACHUSETTS INSTITUTE OF TECHNOLOGY*/
+ /*Subject to FAR 52.227-11 – Patent Rights – Ownership by the Contractor (May 2014).*/
+ /*SPDX-License-Identifier: MIT*/
+ /*See LICENSE.txt*/
+
+body {
+    font: 16px Arial, sans-serif;
+    margin: 0px;
+    min-height: 100vh;
+}
+
+ol, ul {
+    padding-left: 30px;
+}
+
+#root {
+    min-height: 100vh;
+}
+
+.app-background {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(242, 246, 247, 1);
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.top-matter {
+    background-color: white;
+    border-top: 20px solid rgba(80, 123, 148, 1);
+    padding-bottom: 20px;
+    min-height: 200px;
+}
+
+.content-wrapper {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 327px;
+    height: 100%;
+}
+
+.repository-list {
+    background-color: white;
+    padding-top: 20px;
+    margin-top: 30px;
+    flex-grow: 1;
+}
+
+.panel-label {
+    color: #427C97;
+    margin-top: 0;
+    padding-top: 4px;
+}
+
+.large-button {
+    background-color: rgba(80, 123, 148, 1) !important;
+}
+
+.comparison-selection {
+    border-top: 1px solid #737373 !important;
+    padding: 8px 0 20px 20px;
+}
+
+.comparison-titles {
+    background-color: #DCDCDC !important;
+    color: #333333 !important;
+    font-weight: bold;
+    font-size: 16px !important;
+    border-radius: 6px !important;
+    margin: 16px 16px 6px 0;
+    min-width: 135px;
+    min-height: 35px;
+    max-width: 200px;
+    max-height: 44px;
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+}
+
+.comparison-title-selected {
+    background-color: #C7e2e7 !important;
+    border: solid 1px #507b94 !important;
+}
+
+#compare_repositories_button {
+    float: right;
+    margin-top: 15px;
+    margin-right: 35px;
+    height: 35px;
+    width: 128px;
+}
+
+#header-logo {
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+#header-text {
+    position: absolute;
+    bottom: 35px;
+    margin-left: 20px;
+    color: black;
+    font-family: arial;
+    font-size: 16px;
+}
+
+.filter-explain {
+    color: rgba(0, 0, 0, 0.6);
+    font: 16px Arial, sans-serif;
+    margin: 0px;
+}
+
+.sui-CollapsibleReadmore {
+    overflow: hidden;
+}
+
+.filters-wrapper {
+    background-color: white;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+
+.filters {
+    border-top: 1px solid #737373 !important;
+    padding: 20px 40px !important;
+}
+
+.filters > fieldset {
+    margin: 20px 0;
+    border: none;
+}
+
+.filters > fieldset > legend {
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.6);
+    padding-bottom: 5px;
+}
+
+.clamp {
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    overflow-wrap: break-word;
+}
+
+.tag {
+    font-size: 10px;
+    background-color: gray;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.page-footer {
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+    border-bottom: 20px solid rgba(80, 123, 148, 1);
+    padding: 50px;
+    margin: 40px 30px 0 0 !important;
+    max-width: 1388px;
+}
+
+.empty-list {
+    border-top: 1px solid #737373;
+    width: '100%';
+    padding: 40px 33px;
+}
+
+.repository-name {
+    font-size: 21;
+    font-family: arial;
+    text-align: left;
+    letter-spacing: none;
+    margin-bottom: 2px;
+    vertical-align: top;
+}
+
+.repository-card {
+    border-top: 1px solid #737373;
+    padding: 25px !important;
+}
+
+.repository-card-info-note {
+    margin-left: 10px !important;
+    font-size: 0.8rem !important;
+}
+
+.repository-card-description {
+    margin: 10px 0;
+    font-family: arial;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.repository-chip {
+    height: 18px !important;
+    font-family: arial;
+    margin: 5px 2px;
+}
+
+.repository-card-buttons {
+    margin-top: 20px !important;
+}
+
+.repository-card-buttons div {
+    margin-right: 20px;
+}
+
+.repository-page {
+    background-color: white;
+    padding: 40px !important;
+    margin-top: 30px;
+}
+
+.repository-comparison {
+    background-color: white;
+    padding-bottom: 80px !important;
+    margin-top: 25px;
+}
+
+.repository-comparison-column {
+    border-left: solid 1px darkgrey;
+    border-right: solid 1px darkgrey;
+    padding: 15px !important;
+}
+
+.repository-management {
+    background-color: white;
+    padding-top: 0;
+    margin-top: 30px;
+    flex-grow: 1;
+}
+
+.repository-management .form-field {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.repository-management-title {
+    width: 100%;
+    background-color: rgba(91, 122, 145, 1);
+    color: #F2F6F7;
+    font-family: "Arial-BoldMT", "Arial Bold", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    padding: 20px 0;
+    margin-bottom: 10px;
+}
+
+.green-icon {
+    color: green;
+    border: solid 2px green;
+    border-radius: 14px;
+}
+
+.grey-icon {
+    color: darkgrey;
+    border: solid 2px #A9A9A9;
+}
+
+.orange-icon {
+    color: #E0A800;
+    border: none;
+}
+
+.red-icon {
+    color: red;
+    border: none;
+}
+
+button {
+    text-decoration: none !important;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgba(80, 123, 148, 1);
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+footer a {
+    text-decoration: underline !important;
+}
+
+.Mui-focused {
+    color: rgba(0, 0, 0, 0.6) !important;
+}
+
+h3 {
+    padding-top: 15px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    margin-right: 40px;
+}
+
+.form-collection {
+    background-color: rgba(242, 246, 247, 0.3);
+    border: solid rgba(170, 170, 170, 0.6) 1px;
+    padding: 30px 30px 0 30px !important;
+}
+
+.form-error {
+    padding-left: 10px;
+    display: inline;
+    color: red;
+}
+
+.form-page-error {
+    padding-top: 20px;
+    color: red;
+}
+
+.login-wrapper {
+    background-color: white;
+    margin-top: 30px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.repository-accepted-box {
+    background-color: white;
+    margin-top: 30px;
+    padding: 35px 0 40px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.change-log {
+    white-space: pre-wrap;
+}
+.maintenance-banner{
+    width: 100%;
+    padding: 10px 5%;
+    color: #ffffff;
+    background: rgba(80, 123, 148, 1) !important;
+    position: relative;
+    box-sizing: border-box;
+    font-size: 14px;
+
+}

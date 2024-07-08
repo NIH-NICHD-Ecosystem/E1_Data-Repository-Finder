@@ -1,0 +1,73 @@
+Field Name,Field Definition
+Repository Full Name,The proper name for the repository and/or acronym spell-out
+Repository Short Name,Acronym or short name for repository if one exists
+Brief Description,Description of the repository and the purpose it serves
+Web Address,Homepage URL for the repository
+Help Email,Email link for general public to contact repository staff
+Affiliation,The organization that hosts and maintains the database and associated software.  
+Organism,The types of organisms from which data are shared in the repository
+Research Areas,The research domain(s) for which the repository shares data. 
+Data Types,Keywords for types of data associated with the repository that users can use to filter and search the DRF. Data types are sourced directly from the repository website without further interpretation; different repositories may use different terms to describe the same type of data.
+Data Formats Accepted,"Dataset file types that can be submitted to the repository. 
+Additional terms: 
+""All"",  used for generalist repositories; 
+""Other"", used where the list provided is not exhaustive; 
+""Flexible"", used where the repository indicates flexibility for accepted file types; 
+""Not listed"", used where the repository website does not specify this information"
+Data Formats Accepted Description,Additional description to provide context to Data Formats Accepted. Information is quoted from the repository website where available. 
+Data Formats Accepted Links,URL to description of formats accepted for submission to the repostiory
+Metadata Required,"Whether metadata beyond basic study information such as study name, organization, and short text description of dataset is required for submission:
+""Yes"", The repository requires additional metadata; 
+""No"", The repository does not require additional metadata; 
+""Unclear"",  Unclear if additional metadata is a requirement, or repository website does not specify this information"
+Metadata Required Description,Additional description to provide context to Metadata Required. Information is quoted from the repository website where available. 
+Metadata Required Links,Links to the metadata requirements on the repository website.
+Data Submission Requirements,"Whether submitters need to prepare their data in a certain way for submission:
+""Yes"", The repository requires specific data preparation steps; 
+""No"", The repository does not require specific data preparation steps; 
+""Unclear"",  Unclear if repository requires specific data preparation steps"
+Data Submission Requirements Description,Requirements for data submission as listed on the repository website. 
+Data Submission Requirements Links,Links to the data preparation requirements on the repository website.
+Fees for Submission,"Whether submitters need to pay a fee to submit to maintain data in the repository: 
+""Yes"", There is a fee to submit to the repository or to maintain data
+""No"",  There is no fee to submit to the repository or to maintain data
+""Unclear"", Unclear if there is a fee to submit to the repository or to maintain data"
+Fees for Submission Description,Details specific cost information listed on the repository website. 
+Fees for Submission Links,URL for information about submission fees
+Data Submission Agreement or Institutional Certification Required for Data Submission,"Whether submitters need to sign a Data Submission Agreement or provide an Institutional Certification for data submission or sharing:
+""Yes"", The repository requires a Data Submission Agreement, Institutional Certification, or other authorization 
+""No"", The repository does not require a Data Submission Agreement, Institutional Certification, or other authorization 
+""Unclear"",  Unclear if Data Submission Agreement, Institutional Certification, or other authorization is required, or repository website does not specify this information"
+Data Submission Agreement or Institutional Certification Required for Data Submission Description,"Which agreements are required or recommended, or other supporting information as listed on the repository website. "
+Data Submission Agreement or Institutional Certification Required for Data Submission Links,"URL to information about Data Submission Agreements, Institutional Agreement, or similar required for data submission or sharing "
+Individual-Level Data Accepted,"Whether the repository accepts individual-level data: 
+""Yes"",  The repository accepts individual-level data;
+""No"", The repository does not accept individual-level data;
+""Unclear"", Unclear if the repository accepts individual-level data"
+Individual-Level Data Accepted Description,Supporting information about Individual-level data acceptance
+Individual-Level Data Accepted Links,URL to information about individual-level data acceptance
+Controlled Access,"Whether the repository has a controlled access option for access to datasets: 
+""Yes"",  The repository includes controlled access option; 
+""No"",  The repository does not include controlled access option;
+""Unclear"",  Unclear if the repository includes a controlled access option, or repository website does not specify this information."
+Data Access Control Description,"List of which options the repository offers for access to hosted datasets:
+""Open access"", No access restrictions or registration required to access;
+""Registration required"", Open to all, but users need to be signed in or registered with the resource to access; 
+""Controlled access"", Requires verification of requestor identity and the appropriateness of their proposed research use to access protected data by some review process/committee; 
+""Enclave"", Controlled access where data cannot be downloaded or removed from a specific environment. "
+Data Access Control Links,URL to information about data access controlls
+Data Volume Limitations,"Whether the repository has limitations for the amount of data that can be submitted: 
+""Yes"",  There is some limitation to the amount of data that can be submitted;
+""No"", There is no limitation on the amount of data that can be submitted;
+""Unclear"", Unclear if there is a limitation to the amount of data that can be submitted, or repository website does not specify this information."
+Data Volume Limitations Description,The exact size limitation or other documentation listed.
+Data Volume Limitations Links,URL to information about data volume limitations.
+Persistent ID Used,"Whether the repository uses a dataset-level persistent identifier (ID):
+""Yes"", There is a persistent identifer assigned at the dataset level;  
+""No"", There are no persistent identifers assigned at the dataset level;
+""Unclear"", Unclear if there is a persistent identifier assigned at the dataset level. "
+Persistent ID Used Description,"The type of persistent identifier the repository assigns to shared datasets, such as Digital Object Identifiers (DOIs). "
+On Fairsharing?,"Whether the repository is listed on fairsharing.org:
+""Yes"", The repository is registered on fairsharing.org;
+""No"", The repository is not registered on fairsharing.org"
+Fairsharing Link,URL to the fairsharing.org listing where one exists. 

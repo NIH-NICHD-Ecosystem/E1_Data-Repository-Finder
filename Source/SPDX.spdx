@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+    PackageName: Data Repository Finder
+    PackageHomePage: https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/code
+    PackageOriginator: MIT Lincoln Laboratory
+    PackageCopyrightText: 2024 Massachusetts Institute of Technology
+    PackageLicenseDeclared: MIT
