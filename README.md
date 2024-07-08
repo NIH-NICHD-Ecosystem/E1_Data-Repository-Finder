@@ -2,6 +2,8 @@
 
 </br>
 
+[![DOI](https://zenodo.org/badge/795587690.svg)](https://zenodo.org/badge/latestdoi/795587690)
+
 # E1: Data Repository Finder
 
 <br/><br/>
