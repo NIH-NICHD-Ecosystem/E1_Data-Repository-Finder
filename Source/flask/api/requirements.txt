@@ -15,4 +15,4 @@ python-dotenv==0.21.0
 six==1.16.0
 SQLAlchemy==1.4.42
 Werkzeug==2.2.2
-zipp==3.8.1
+zipp==3.19.1
