@@ -31,7 +31,7 @@
 # Effort Overview 
 <p> Recognizing the need for researchers to find and use data repositories that address their specific data needs, NICHD developed a  tool to display information researchers need to complete their Data Management and Sharing Plans when applying for NICHD funding. Information is manually extracted from the websites of repositories identified by NICHD's Office of Data Science and Sharing (ODSS) and includes details such as what data access tiers the repository supports and  data submission requirements. </p>
 
-#### Primary contact:  [Data-Repository-Finder-Support@ll.mit.edu](mailto:Data-Repository-Finder-Support@ll.mit.edu?subject=Data-Repository-Finder-Support)<br/>
+#### Primary contact:  [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Data-Repository-Finder-Support)<br/>
 
 #### Details: 
 * <b> Built by:</b> MIT Lincoln Laboratory in REACT</br>
