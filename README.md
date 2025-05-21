@@ -29,7 +29,9 @@
 <br/><br/>
 
 # Effort Overview 
-<p> Recognizing the need for researchers to find and use data repositories that address their specific data needs, NICHD developed a  tool to display information researchers need to complete their Data Management and Sharing Plans when applying for NICHD funding. Information is manually extracted from the websites of repositories identified by NICHD's Office of Data Science and Sharing (ODSS) and includes details such as what data access tiers the repository supports and  data submission requirements. </p>
+<p> Recognizing the need for researchers to find and use data repositories that address their specific data needs, NICHD developed a  tool to display information researchers need to complete their NIH Data Management and Sharing Plans when applying for NICHD funding. Information is manually extracted from the websites of repositories identified by NICHD's Office of Data Science and Sharing (ODSS) and includes details such as what data access tiers the repository supports and  data submission requirements. </p>
+<p> Data repositories are included if they support the NIH definition of data sharing, which means making scientific data available to the public or broad research community, will accept data submissions from NICHD funded researchers without requiring special approvals, and meet other federal, NIH, and NICHD data repository criteria. </p> 
+<p> The fields displayed in the Data Repository Finder were developed based on expected elements of Data Management and Sharing Plans and related definitions and principles rooted in the NIH Data Management and Sharing Policy. </p> 
 
 #### Primary contact:  [Data-Repository-Finder-Support@ll.mit.edu](mailto:Data-Repository-Finder-Support@ll.mit.edu?subject=Data-Repository-Finder-Support)<br/>
 
