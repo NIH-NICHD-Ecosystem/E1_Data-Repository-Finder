@@ -93,10 +93,6 @@ Viewing provenance extends editing and publishing a repository, and includes sel
 | Repository Publisher  | Publisher goal is to ensure the information entered for a given repository matches display intent and meets/exceeds quality checks before the public can see the information |  NICHD Staff, Other 
 | Repository Searcher |  Searcher goal is to find a data repository that matches their internal search criteria (e.g., I need a repository that handles genomic data)  |  NICHD Researchers, NICHD Staff, Participant Community, Other 
 
-<br/>
-
-## [Source](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/Source) 
-Open-source codebase for the DRF web-based tool with license information.
 
 <br/>
 
