@@ -94,7 +94,23 @@ Viewing provenance extends editing and publishing a repository, and includes sel
 | Repository Searcher |  Searcher goal is to find a data repository that matches their internal search criteria (e.g., I need a repository that handles genomic data)  |  NICHD Researchers, NICHD Staff, Participant Community, Other 
 
 
+<br/><br/>
+
+## User Stories
 <br/>
+The following User Stories motivated and informed this Effort.
+
+<br/>
+<br/><br/>
+
+| S#  | User Story | Current Problem | User Goal |
+|----|----|----|-----|
+|3| As NICHD staff, I want to be able to update a given field in the Data Repository Finder and track the date and reason for the change, so that I can go back later and review why that decision was made | DRF registration system does not yet support tracking changes| My goal is to track the provenance of edits made to the DRF and to document why the changes were made.|
+| 30 |As an NICHD (intramural or extramural) researcher, I want to find the best data repositories for sharing scientific data that I am generating in my project and understand the repository's submission and sharing practices so I can complete my DMS Plan. | When I look at a data repository's website it can be difficult to determine the repository's requirements, expectations, and processes (e.g., accepted data types, metadata, formats, other standards, submission agreements, whether it is controlled access). It is also time consuming to look at many repository websites to determine if its appropriate. | My goal is to adhere to the expectations of the DMS Policy which expects maximizing the sharing of scientific data generated in my project |
+| 31 |As an NICHD program officer, I want to verify that researchers are using data repositories appropriate for the scientific data they plan to share and that their DMS Plan is consistent with the repository's expectations and requirements | When I look at a data repository's website it can be difficult to determine the repository's requirements, expectations, and processes (e.g., accepted data types, metadata, formats, other standards, submission agreements, whether it is controlled access). It is also time consuming to look at many repository websites to determine if its appropriate.| My goal is to determine whether the researcher is adequately planning to share their scientific data in data repositories to adhere to the DMS Policy's expectations.|
+
+<br/>
+
 
 ## [Documentation Files](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/Documentation)
 
