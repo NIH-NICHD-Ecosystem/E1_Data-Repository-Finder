@@ -24,7 +24,7 @@
     - [Use Cases Diagram](#use-cases-diagram) - use cases for the E1-Data Repository Finder effort and their relationships
     - [Use Cases and Origin User Stories](#use-cases-and-origin-user-stories) - overview of each use case, related actors, and their goals
     - [Source](#source) - Open-source codebase for the DRF web-based tool
-    - [Documentation Files](#documentation-files) - documentation files that can be downloaded for this project
+- [User Stories](#user-stories)
 
 <br/><br/>
 
@@ -93,11 +93,14 @@ Viewing provenance extends editing and publishing a repository, and includes sel
 | Repository Publisher  | Publisher goal is to ensure the information entered for a given repository matches display intent and meets/exceeds quality checks before the public can see the information |  NICHD Staff, Other 
 | Repository Searcher |  Searcher goal is to find a data repository that matches their internal search criteria (e.g., I need a repository that handles genomic data)  |  NICHD Researchers, NICHD Staff, Participant Community, Other 
 
+<br/>
 
+## Source
+
+Open-source codebase for the DRF web-based tool can be found on [Zenodo](https://zenodo.org/records/12688248). 
 <br/><br/>
 
-## User Stories
-<br/>
+# User Stories
 The following User Stories motivated and informed this Effort.
 
 <br/>
@@ -111,11 +114,5 @@ The following User Stories motivated and informed this Effort.
 
 <br/>
 
-
-## [Documentation Files](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/Documentation)
-
-* [1_Use-Cases](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/Documentation/1_Use-Cases): Formalized documentation describing interaction requirements and Effort scope.
-
-* **2_Supplemental:** Other documentation describing Effort design and build decisions (coming soon) 
 
 
