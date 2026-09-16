@@ -12,7 +12,7 @@
 
 ### The Data Repository Finder is an open-access, web-based tool that helps NICHD researchers find data repositories where they can share data as they develop and implement their NIH Data Management and Sharing Plans. Repositories are added on an ongoing basis.
 
-### > Live in Beta. Visit the website at https://data-repository-finder.ll.mit.edu*
+### > The DRF is live. Visit the website at https://data-repository-finder.ll.mit.edu*
 *\*External link, NIH is not responsible for content of external sites*
 
 <br/>
