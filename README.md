@@ -7,7 +7,7 @@
 
 <br/> 
 
-![Logo for the data repository finder effort website and an image of the website landing page.](./assets/E1-DRF-Overview.PNG) 
+![Logo for the data repository finder effort website and an image of the website landing page.](./assets/DRF_Homescreen.png) 
 
 
 ### The Data Repository Finder is an open-access, web-based tool that helps NICHD researchers find data repositories where they can share data as they develop and implement their NIH Data Management and Sharing Plans. Repositories are added on an ongoing basis.
